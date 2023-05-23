@@ -22,7 +22,3 @@ for i in range(2,n+1):
     for a in prev_list:
         print(a,end=" ")
     print()
-
-
-
-
